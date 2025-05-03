@@ -1,0 +1,28 @@
+﻿@model SampleMvcApp.ViewModels.UserProfileViewModel
+@{
+    ViewData["Title"] = "User Profile";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="row">
+            <h2>@ViewData["Title"].</h2>
+
+            <div class="col-md-2">
+                <img src="@Model.ProfileImage"
+                     alt="" class="img-rounded img-responsive" />
+            </div>
+            <div class="col-md-4">
+                <h3>@Model.Name</h3>
+                <p>
+                    <i class="glyphicon glyphicon-envelope"></i> @Model.EmailAddress
+                </p>
+                <a href="@Url.Action("EditarPerfil", "Account")" class="btn btn-primary mt-3">
+                    <i class="glyphicon glyphicon-edit"></i> Modificar datos
+                </a>
+
+
+            </div>
+        </div>
+    </div>
+</div>

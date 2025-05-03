@@ -1,0 +1,4245 @@
+{
+  "Version": 1,
+  "Hash": "rh/FpqR1WRfSMnLzsXWin7eD3nOVato1I09EuVFy+i8=",
+  "Source": "SampleMvcApp",
+  "BasePath": "_content/SampleMvcApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SampleMvcApp\\wwwroot",
+      "Source": "SampleMvcApp",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\css\\site.css",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dz0tt7zj3u",
+      "Integrity": "OVN/hmrGan4G7oD2wWQqwcQ3G+nm/YOpnRS7eeAFiLs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\css\\site.min.css",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "css/site.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8qo50a92ce",
+      "Integrity": "kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\favicon.ico",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90yqlj465b",
+      "Integrity": "qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\images\\banner1.svg",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "images/banner1#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v6jnq5ttib",
+      "Integrity": "GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner1.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\images\\banner2.svg",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "images/banner2#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "htbl0vvztd",
+      "Integrity": "60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner2.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\images\\banner3.svg",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "images/banner3#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w24zs667xn",
+      "Integrity": "aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner3.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\js\\site.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bnkqy1y0r8",
+      "Integrity": "BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\js\\site.min.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "js/site.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/.bower#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gf1l0tubis",
+      "Integrity": "fC4WbqaQ0G9sipv3Ku9/pBjDrwiStLOwqXKDeceP/nE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\.bower.json"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y0id4b3pku",
+      "Integrity": "fmMNkMcjSw3xcp9iuPnku/ryk9kaWgrEbfJfKmdZ45o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o3yzcp43z9",
+      "Integrity": "nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fmhzntxchr",
+      "Integrity": "916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wrmkol24q7",
+      "Integrity": "tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o3kse6f0q7",
+      "Integrity": "xOpS+e/dER8z72w+qryCieOGysQI8cELAVt3MHG0phY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1gzojq7jip",
+      "Integrity": "cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ndb825arvd",
+      "Integrity": "ZT4HPpdCOt2lvDkXokHuhJfdOKSPFLzeAJik5U/Q+l4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g210lhpolz",
+      "Integrity": "mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "torz25362b",
+      "Integrity": "E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "masyeah4yd",
+      "Integrity": "QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "li0e4nnnks",
+      "Integrity": "45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ndvrp6o3s",
+      "Integrity": "0rWnF+MllyF4RAIG5oDBXDuBL7cYAh4slThFYP7Doug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5wscqnafbq",
+      "Integrity": "RZMX/9TROB5+3s8y41bzM2IntPbi2pVQO+6YW/iuX+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yenew89u7c",
+      "Integrity": "Cr6N6zNN4bp0OwTQOZ6Z66M2r+2dpy/EwKMCyZ+SOMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lqjz3ug8zc",
+      "Integrity": "U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/dist/js/npm#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70c8sktaz9",
+      "Integrity": "x6qCoap9RSJKONkm0q2v9/5K71vNr6Kke9rAV/RCLC0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ejhngcrdoo",
+      "Integrity": "imjCetAiJEt43Fya20zFpMkqmU4+EdNWspHyJ7KwTq8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\.bower.json",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery/.bower#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kr607nge56",
+      "Integrity": "wDqyFWuWkTD/L7NI9Nb8ovMjgh0Q3wBcucFdEfjgaCY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\.bower.json"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gux2z0h2ti",
+      "Integrity": "2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ye1g148en",
+      "Integrity": "FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b804xvqo1w",
+      "Integrity": "1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rkkog0v3vw",
+      "Integrity": "Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation/.bower#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hqs2iqual",
+      "Integrity": "+qA3VPTSghqUCFkF2y1KAW8deAr/Dq/tu3c05WUbSx8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\.bower.json"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2fui7xoca",
+      "Integrity": "0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rqbzy5c3x",
+      "Integrity": "0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jdpnbaa6vo",
+      "Integrity": "yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "59qolqi738",
+      "Integrity": "F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xzw0cte36n",
+      "Integrity": "85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/.bower#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a3v96qloon",
+      "Integrity": "psPLE698hFRAHiZymvy4l87xjcTMwMMAi88LJVU8JXA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lzdet8xj2m",
+      "Integrity": "r5Rfev/5K+Lm9sbVBSYmKM8Bkq1ivQNQypa2LZNGuSg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "550vp3ubuf",
+      "Integrity": "eVcx3YfaaEtLd9TsEr+366Qre3mb6SMq71vPpUkqATU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "SampleMvcApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\",
+      "BasePath": "_content/SampleMvcApp",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ez5mqxv2b",
+      "Integrity": "bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OVN/hmrGan4G7oD2wWQqwcQ3G+nm/YOpnRS7eeAFiLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OVN/hmrGan4G7oD2wWQqwcQ3G+nm/YOpnRS7eeAFiLs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.dz0tt7zj3u.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OVN/hmrGan4G7oD2wWQqwcQ3G+nm/YOpnRS7eeAFiLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dz0tt7zj3u"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OVN/hmrGan4G7oD2wWQqwcQ3G+nm/YOpnRS7eeAFiLs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.8qo50a92ce.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\css\\site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8qo50a92ce"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.min.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\css\\site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr+OuAO90E="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.90yqlj465b.ico",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90yqlj465b"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner1.svg",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\images\\banner1.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner1.v6jnq5ttib.svg",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\images\\banner1.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v6jnq5ttib"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner1.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GaE/EmkeBf+yBbrJ26lpkGd4jkOSh1eVKJaNOw9I4uk="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner2.htbl0vvztd.svg",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\images\\banner2.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "htbl0vvztd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner2.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner2.svg",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\images\\banner2.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-60TgRUjPDlTKrCHTI/KjwzfC3Q1Vn13XT2aAYMbYT2o="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner3.svg",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\images\\banner3.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner3.w24zs667xn.svg",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\images\\banner3.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w24zs667xn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner3.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aJNxc7a4CqF4NF5VHFqWt59nF8aJeRt5DJ9epDvWtUE="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.bnkqy1y0r8.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bnkqy1y0r8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.min.5ipweew5fc.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\js\\site.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.min.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\js\\site.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/.bower.gf1l0tubis.json",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fC4WbqaQ0G9sipv3Ku9/pBjDrwiStLOwqXKDeceP/nE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gf1l0tubis"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/.bower.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fC4WbqaQ0G9sipv3Ku9/pBjDrwiStLOwqXKDeceP/nE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/.bower.json",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fC4WbqaQ0G9sipv3Ku9/pBjDrwiStLOwqXKDeceP/nE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fC4WbqaQ0G9sipv3Ku9/pBjDrwiStLOwqXKDeceP/nE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fmMNkMcjSw3xcp9iuPnku/ryk9kaWgrEbfJfKmdZ45o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fmMNkMcjSw3xcp9iuPnku/ryk9kaWgrEbfJfKmdZ45o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.o3yzcp43z9.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o3yzcp43z9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "542194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.wrmkol24q7.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "542194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wrmkol24q7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.fmhzntxchr.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fmhzntxchr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.y0id4b3pku.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fmMNkMcjSw3xcp9iuPnku/ryk9kaWgrEbfJfKmdZ45o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0id4b3pku"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fmMNkMcjSw3xcp9iuPnku/ryk9kaWgrEbfJfKmdZ45o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xOpS+e/dER8z72w+qryCieOGysQI8cELAVt3MHG0phY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xOpS+e/dER8z72w+qryCieOGysQI8cELAVt3MHG0phY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.1gzojq7jip.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1gzojq7jip"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZT4HPpdCOt2lvDkXokHuhJfdOKSPFLzeAJik5U/Q+l4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZT4HPpdCOt2lvDkXokHuhJfdOKSPFLzeAJik5U/Q+l4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.g210lhpolz.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g210lhpolz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.ndb825arvd.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZT4HPpdCOt2lvDkXokHuhJfdOKSPFLzeAJik5U/Q+l4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ndb825arvd"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZT4HPpdCOt2lvDkXokHuhJfdOKSPFLzeAJik5U/Q+l4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-theme.o3kse6f0q7.css",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xOpS+e/dER8z72w+qryCieOGysQI8cELAVt3MHG0phY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o3kse6f0q7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xOpS+e/dER8z72w+qryCieOGysQI8cELAVt3MHG0phY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.5wscqnafbq.woff2",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZMX/9TROB5+3s8y41bzM2IntPbi2pVQO+6YW/iuX+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wscqnafbq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZMX/9TROB5+3s8y41bzM2IntPbi2pVQO+6YW/iuX+s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.6ndvrp6o3s.woff",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0rWnF+MllyF4RAIG5oDBXDuBL7cYAh4slThFYP7Doug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ndvrp6o3s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0rWnF+MllyF4RAIG5oDBXDuBL7cYAh4slThFYP7Doug="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.li0e4nnnks.ttf",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "li0e4nnnks"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.masyeah4yd.svg",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "masyeah4yd"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QvYGWdJlwaPDD5+kKry7Vr1KU69Ng9MW1t16NpA8Q+U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.torz25362b.eot",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "torz25362b"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0rWnF+MllyF4RAIG5oDBXDuBL7cYAh4slThFYP7Doug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0rWnF+MllyF4RAIG5oDBXDuBL7cYAh4slThFYP7Doug="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZMX/9TROB5+3s8y41bzM2IntPbi2pVQO+6YW/iuX+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZMX/9TROB5+3s8y41bzM2IntPbi2pVQO+6YW/iuX+s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr6N6zNN4bp0OwTQOZ6Z66M2r+2dpy/EwKMCyZ+SOMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr6N6zNN4bp0OwTQOZ6Z66M2r+2dpy/EwKMCyZ+SOMg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.lqjz3ug8zc.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lqjz3ug8zc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.yenew89u7c.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cr6N6zNN4bp0OwTQOZ6Z66M2r+2dpy/EwKMCyZ+SOMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yenew89u7c"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cr6N6zNN4bp0OwTQOZ6Z66M2r+2dpy/EwKMCyZ+SOMg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/npm.70c8sktaz9.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6qCoap9RSJKONkm0q2v9/5K71vNr6Kke9rAV/RCLC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70c8sktaz9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/npm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6qCoap9RSJKONkm0q2v9/5K71vNr6Kke9rAV/RCLC0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/npm.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6qCoap9RSJKONkm0q2v9/5K71vNr6Kke9rAV/RCLC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6qCoap9RSJKONkm0q2v9/5K71vNr6Kke9rAV/RCLC0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imjCetAiJEt43Fya20zFpMkqmU4+EdNWspHyJ7KwTq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-imjCetAiJEt43Fya20zFpMkqmU4+EdNWspHyJ7KwTq8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE.ejhngcrdoo",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imjCetAiJEt43Fya20zFpMkqmU4+EdNWspHyJ7KwTq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ejhngcrdoo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-imjCetAiJEt43Fya20zFpMkqmU4+EdNWspHyJ7KwTq8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/.bower.json",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDqyFWuWkTD/L7NI9Nb8ovMjgh0Q3wBcucFdEfjgaCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDqyFWuWkTD/L7NI9Nb8ovMjgh0Q3wBcucFdEfjgaCY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/.bower.kr607nge56.json",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDqyFWuWkTD/L7NI9Nb8ovMjgh0Q3wBcucFdEfjgaCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kr607nge56"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/.bower.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDqyFWuWkTD/L7NI9Nb8ovMjgh0Q3wBcucFdEfjgaCY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.gux2z0h2ti.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gux2z0h2ti"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.2ye1g148en.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ye1g148en"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.b804xvqo1w.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b804xvqo1w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.rkkog0v3vw.txt",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkkog0v3vw"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/.bower.2hqs2iqual.json",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+qA3VPTSghqUCFkF2y1KAW8deAr/Dq/tu3c05WUbSx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hqs2iqual"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/.bower.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+qA3VPTSghqUCFkF2y1KAW8deAr/Dq/tu3c05WUbSx8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/.bower.json",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+qA3VPTSghqUCFkF2y1KAW8deAr/Dq/tu3c05WUbSx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+qA3VPTSghqUCFkF2y1KAW8deAr/Dq/tu3c05WUbSx8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.3rqbzy5c3x.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rqbzy5c3x"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.o2fui7xoca.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2fui7xoca"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.jdpnbaa6vo.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jdpnbaa6vo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.59qolqi738.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59qolqi738"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.xzw0cte36n.md",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzw0cte36n"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/.bower.a3v96qloon.json",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"psPLE698hFRAHiZymvy4l87xjcTMwMMAi88LJVU8JXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a3v96qloon"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/.bower.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-psPLE698hFRAHiZymvy4l87xjcTMwMMAi88LJVU8JXA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/.bower.json",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"psPLE698hFRAHiZymvy4l87xjcTMwMMAi88LJVU8JXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-psPLE698hFRAHiZymvy4l87xjcTMwMMAi88LJVU8JXA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r5Rfev/5K+Lm9sbVBSYmKM8Bkq1ivQNQypa2LZNGuSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r5Rfev/5K+Lm9sbVBSYmKM8Bkq1ivQNQypa2LZNGuSg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.lzdet8xj2m.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r5Rfev/5K+Lm9sbVBSYmKM8Bkq1ivQNQypa2LZNGuSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lzdet8xj2m"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r5Rfev/5K+Lm9sbVBSYmKM8Bkq1ivQNQypa2LZNGuSg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.550vp3ubuf.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eVcx3YfaaEtLd9TsEr+366Qre3mb6SMq71vPpUkqATU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "550vp3ubuf"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eVcx3YfaaEtLd9TsEr+366Qre3mb6SMq71vPpUkqATU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eVcx3YfaaEtLd9TsEr+366Qre3mb6SMq71vPpUkqATU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eVcx3YfaaEtLd9TsEr+366Qre3mb6SMq71vPpUkqATU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.4ez5mqxv2b.txt",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ez5mqxv2b"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 22:52:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ="
+        }
+      ]
+    }
+  ]
+}

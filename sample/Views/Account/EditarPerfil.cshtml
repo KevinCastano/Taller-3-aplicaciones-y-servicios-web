@@ -1,0 +1,36 @@
+﻿@model SampleMvcApp.ViewModels.UserProfileEditViewModel
+
+@{
+        ViewData["Title"] = "Editar Perfil";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="EditarPerfil" method="post" class="needs-validation mt-4" novalidate>
+    <div class="mb-3">
+        <label asp-for="Tipodocumento" class="form-label"></label>
+        <input asp-for="Tipodocumento" class="form-control" />
+        <span asp-validation-for="Tipodocumento" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Numerodocumento" class="form-label"></label>
+        <input asp-for="Numerodocumento" class="form-control" />
+        <span asp-validation-for="Numerodocumento" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Direccion" class="form-label"></label>
+        <input asp-for="Direccion" class="form-control" />
+        <span asp-validation-for="Direccion" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Telefono" class="form-label"></label>
+        <input asp-for="Telefono" class="form-control" />
+        <span asp-validation-for="Telefono" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a href="@Url.Action("Profile", "Account")" class="btn btn-secondary">Cancelar</a>
+</form>

@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\viewmodels\\userprofileeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:viewmodels\\userprofileeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\views\\account\\editarperfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:views\\account\\editarperfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\views\\account\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:views\\account\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\exec.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:exec.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|c:\\users\\kevin\\desktop\\aplicaciones y servicios web\\talleres\\taller 3\\sample\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF9D1786-4670-454D-96D1-92C366FF760E}|SampleMvcApp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarPerfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Account\\EditarPerfil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\EditarPerfil.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Account\\EditarPerfil.cshtml",
+              "RelativeToolTip": "Views\\Account\\EditarPerfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T00:17:28.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfileEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\ViewModels\\UserProfileEditViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserProfileEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\ViewModels\\UserProfileEditViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserProfileEditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:08:05.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T23:06:44.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:53:28.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:53:20.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:53:42.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T23:59:00.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Claims.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Account\\Claims.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Claims.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Account\\Claims.cshtml",
+              "RelativeToolTip": "Views\\Account\\Claims.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T23:06:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T23:06:48.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "exec.ps1",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\exec.ps1",
+              "RelativeDocumentMoniker": "exec.ps1",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\exec.ps1",
+              "RelativeToolTip": "exec.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T22:57:35.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T22:57:20.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T22:57:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T22:57:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-02T22:57:14.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\web.config",
+              "RelativeDocumentMoniker": "web.config",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Aplicaciones y servicios WEB\\talleres\\taller 3\\sample\\web.config",
+              "RelativeToolTip": "web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-02T22:57:12.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
